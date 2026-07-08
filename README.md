@@ -1,7 +1,7 @@
 ## 👋 🌎
 
-- 🔭 I’m currently working on tankmates (personal project), contrubuting to open-source projects
-- 🌱 I’m currently learning python, machine learning for traders
+- 🔭 I’m currently working on Nexus Banking and
+- 🌱 I’m currently learning Java/Spring Boot
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IsidroMolina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isidromolina/)
@@ -11,8 +11,8 @@
 
 ### GitHub Stats
 
-[![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imolina212&theme=merko)](https://github.com/imolina212/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imolina212&theme=merko&layout=compact)](https://github.com/imolina212)
+[![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imolina212&theme=merko)](https://github.com/imj-1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imolina212&theme=merko&layout=compact)](https://github.com/imj-1)
 
 ### LeetCode/Codewars stats & badges
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
