@@ -8,10 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🇩🇴🇺🇸 Native New Yorker who has a planted shrimp tank
 
-### GitHub Stats
-
-![Isidro's Stats](https://github-readme-stats.vercel.app/api?username=imj-1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imj-1&layout=compact&theme=tokyonight)
 
 ### LeetCode / Codewars
 
