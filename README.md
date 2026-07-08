@@ -1,7 +1,7 @@
 ## 👋 🌎
 
-- 🔭 I’m currently working on Nexus Banking
-- 🌱 I’m currently learning Java/Spring Boot
+- 🔭 I’m currently working on [Nexus Banking](https://nexusbanking.netlify.app/)
+- 🌱 I’m currently learning Java/Spring Boot/Cloud Infrastructure
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IsidroMolina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isidromolina/)
