@@ -11,8 +11,8 @@
 
 ### GitHub Stats
 
-[![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imolina212&theme=merko)](https://github.com/imj-1/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imolina212&theme=merko&layout=compact)](https://github.com/imj-1)
+[![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imj-1&theme=merko)](https://github.com/imj-1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imj-1&theme=merko&layout=compact)](https://github.com/imj-1)
 
 ### LeetCode/Codewars stats & badges
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
