@@ -10,8 +10,8 @@
 
 ### GitHub Stats
 
-[![Isidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imj-1&theme=merko)](https://github.com/imj-1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imj-1&theme=merko&layout=compact)](https://github.com/imj-1)
+![Isidro's Stats](https://github-readme-stats.vercel.app/api?username=imj-1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imj-1&layout=compact&theme=tokyonight)
 
 ### LeetCode / Codewars
 
