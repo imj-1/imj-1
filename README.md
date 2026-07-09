@@ -1,16 +1,48 @@
-## 👋 🌎
+# 👋 Hi, I'm Isidro 
 
-- 🔭 I’m currently working on [Nexus Banking](https://nexusbanking.netlify.app/)
-- 🌱 I’m currently learning Java/Spring Boot/Cloud Infrastructure
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about anything
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IsidroMolina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isidromolina/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🇩🇴🇺🇸 Native New Yorker who has a planted shrimp tank
+Full Stack developer crafting clean, maintainable, and scalable systems.
 
+I love turning complex problems into modern, reliable solutions.
 
-### LeetCode / Codewars
+Always happy to chat about opportunities or interesting projects.
 
+🚀 [**Softwaer Engineer Portfolio**](https://isidro.dev/)
+
+### 🤝 Let's Connect!
+
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/isidromolina/)
+* 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
+
+### 🔭 What I'm Up To
+* 💰 **Featured:** Currently building [Nexus Banking](https://nexusbanking.netlify.app/), a high-performance banking application utilizing Java, Spring Boot, and robust cloud practices.
+* 🌱 **Deepening Knowledge:** Advanced Cloud Infrastructure & Distributed Systems.
+* 👯 **Collaboration:** Looking to contribute to open-source and open to work.
+* 🧠 **Fun Fact:** Native New Yorker who owns a planted shrimp tank 🦐
+
+---
+
+### 🛠️ Technical Skills
+
+#### 🖥️ Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,html,css,sass,bootstrap" alt="Frontend Skills" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ruby,postgres,mysql,graphql" alt="Backend Skills" />
+</p>
+
+#### 🔧 Tools & Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase,jest,figma" alt="Tools" />
+</p>
+
+---
+
+### 📊 Coding Metrics & Problem Solving
+![Leetcode Stats](https://leetcard.jacoblin.cool/isidromolina?theme=dark&ext=activity)
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/isidromolina?theme=dark&ext=activity)
+---
+This is my most upto date version. Can you provide feedback?
