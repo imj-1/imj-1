@@ -6,11 +6,14 @@ I love turning complex problems into modern, reliable solutions.
 
 Always happy to chat about opportunities or interesting projects.
 
-🚀 [**Softwaer Engineer Portfolio**](https://isidro.dev/)
+🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
 ### 🤝 Let's Connect!
 
-* 💼 [**LinkedIn**](https://www.linkedin.com/in/isidromolina/)
+* <a href="https://www.linkedin.com/in/isidromolina/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" height="24" align="center" />
+    <b>LinkedIn Profile</b>
+  </a>
 * 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
 
 ### 🔭 What I'm Up To
