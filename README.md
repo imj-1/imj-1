@@ -76,4 +76,3 @@ Always happy to chat about opportunities or interesting projects.
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
 
 ---
-This is my most upto date version. Can you provide feedback?
