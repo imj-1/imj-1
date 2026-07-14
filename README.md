@@ -57,6 +57,8 @@ Always happy to chat about opportunities or interesting projects.
 #### 🔧 Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" alt="Prometheus" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
