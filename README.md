@@ -74,5 +74,3 @@ Always happy to chat about opportunities or interesting projects.
 ### 📊 Coding Metrics & Problem Solving
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isidromolina?theme=dark&ext=activity)
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
-
----
