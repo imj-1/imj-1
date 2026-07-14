@@ -23,8 +23,6 @@ Always happy to chat about opportunities or interesting projects.
 * 🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
 <br>
-<br>
-<br>
 
 ## 🛠️ Technical Skills
 
