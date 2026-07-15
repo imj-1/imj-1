@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isidro 
 
-Full Stack developer crafting clean, maintainable, and scalable systems.
+Full Stack developer powered by caffeine building fast, maintainable, and scalable systems.
 
 I love turning complex problems into modern, reliable solutions.
 
@@ -72,3 +72,14 @@ Always happy to chat about opportunities or interesting projects.
 ### 📊 Coding Metrics & Problem Solving
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isidromolina?theme=dark&ext=activity)
 [![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
+
+---
+
+## ☕ Support My Work
+If any of my open-source tools, scripts, or templates have saved you time, saved you a headache, or helped you learn something new, consider supporting my work! 
+
+Your support helps keep me fueled (literally, on caffeine) and focused on building my next project.
+
+Thanks for dropping by!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/isidrom)
