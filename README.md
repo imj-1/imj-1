@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Isidro 
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Isidro!;I++build++things.)
 
-Full Stack developer powered by caffeine building fast, maintainable, and scalable systems.
+Full Stack developer dedicated to buiding fast, maintainable, and scalable systems.
 
 I love turning complex problems into modern, reliable solutions.
 
-Always happy to chat about opportunities or interesting projects.
+Always happy to chat about opportunities or collaborations!
 
 
 ## 🔭 What I'm Up To
@@ -22,7 +22,6 @@ Always happy to chat about opportunities or interesting projects.
 * 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
 * 🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
-<br>
 
 ## 🛠️ Technical Skills
 
@@ -67,13 +66,10 @@ Always happy to chat about opportunities or interesting projects.
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
 </p>
 
----
 
-### 📊 Coding Metrics & Problem Solving
-![Leetcode Stats](https://leetcard.jacoblin.cool/imj-1?theme=dark&ext=activity)
-[![Codewars Badge](https://www.codewars.com/users/isidroM/badges/large)](https://www.codewars.com/users/isidroM)
+### 📊 DSA Activity / Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/imj-1?theme=dark&ext=heatmap)
 
----
 
 ## ☕ Support My Work
 If any of my open-source tools, scripts, or templates have saved you time, saved you a headache, or helped you learn something new, consider supporting my work! 
