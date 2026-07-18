@@ -17,8 +17,7 @@ I love turning complex problems into modern, reliable solutions.
 
 ### 🔭 What I'm Up To
 * 💰 **Featured:** Currently building [Nexus Banking](https://nexusbanking.netlify.app/), a high-performance banking application utilizing Java, Spring Boot, and robust cloud practices.
-* 🌱 **Deepening Knowledge:** Advanced Cloud Infrastructure & Distributed Systems.
-* 👯 **Collaboration:** Looking to contribute to open-source and open to work.
+* 🌱 **Deepening Knowledge on:** Advanced Cloud Infrastructure & Distributed Systems.
 * 🧠 **Fun Fact:** Native New Yorker who owns a planted shrimp tank 🦐
 
 
