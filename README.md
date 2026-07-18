@@ -4,23 +4,22 @@ Full Stack developer dedicated to buiding fast, maintainable, and scalable syste
 
 I love turning complex problems into modern, reliable solutions.
 
-Always happy to chat about opportunities or collaborations!
+### 🤝 **Open to collab / new opportunities!**
 
+* 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
+* <div>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" height="20" align="center" />
+  <a href="https://www.linkedin.com/in/isidromolina/">
+        <b>LinkedIn Profile</b>
+      </a>
+  </div>
+* 🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
-## 🔭 What I'm Up To
+### 🔭 What I'm Up To
 * 💰 **Featured:** Currently building [Nexus Banking](https://nexusbanking.netlify.app/), a high-performance banking application utilizing Java, Spring Boot, and robust cloud practices.
 * 🌱 **Deepening Knowledge:** Advanced Cloud Infrastructure & Distributed Systems.
 * 👯 **Collaboration:** Looking to contribute to open-source and open to work.
 * 🧠 **Fun Fact:** Native New Yorker who owns a planted shrimp tank 🦐
-
-## 🤝 Let's Connect!
-
-* <a href="https://www.linkedin.com/in/isidromolina/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" height="24" align="center" />
-    <b>LinkedIn Profile</b>
-  </a>
-* 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
-* 🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
 
 ## 🛠️ Technical Skills
