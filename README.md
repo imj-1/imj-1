@@ -66,7 +66,7 @@ I love turning complex problems into modern, reliable solutions.
 </p>
 
 
-### 📊 DSA Activity / Stats
+#### 📊 DSA Activity / Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/imj-1?theme=dark&ext=heatmap)
 
 
