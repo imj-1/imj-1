@@ -4,6 +4,8 @@ Full Stack developer dedicated to buiding fast, maintainable, and scalable syste
 
 I love turning complex problems into modern, reliable solutions.
 
+How can I help?
+
 ### 🤝 **Open to collab / new opportunities!**
 
 * 📅 [**Book Meeting**](https://calendar.app.google/Hq6HgRBhiveQtG349)
@@ -15,8 +17,8 @@ I love turning complex problems into modern, reliable solutions.
   </div>
 * 🚀 [**Software Engineer Portfolio**](https://isidro.dev/)
 
-### 🔭 What I'm Up To
-* 💰 **Featured:** Currently building [Nexus Banking](https://nexusbanking.netlify.app/), a high-performance banking application utilizing Java, Spring Boot, and robust cloud practices.
+### 🔭 What I'm Up To:
+* 💰 **Featured:** Currently building [Nexus](https://nexusbanking.netlify.app/), a full-stack digital banking platform built on Spring Boot microservices architecture.
 * 🌱 **Deepening Knowledge on:** Advanced Cloud Infrastructure & Distributed Systems.
 * 🧠 **Fun Fact:** Native New Yorker who owns a planted shrimp tank 🦐
 
