@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Isidro!;I++build++things.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Isidro!;I++build++things.)
 
 Full Stack developer dedicated to buiding fast, maintainable, and scalable systems.
 
